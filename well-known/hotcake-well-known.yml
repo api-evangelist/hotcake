@@ -1,0 +1,19 @@
+generated: '2026-07-19'
+method: searched
+host: https://hotcake.app
+notes: >-
+  Probed the standard /.well-known/ discovery surface on the primary host. HOTCAKE is a
+  merchant-facing SaaS with no public developer API; no well-known discovery documents
+  are published. Absence recorded here is expected and valid data. The docs host does
+  publish an llms.txt (captured separately in llms/hotcake-llms.txt).
+documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404

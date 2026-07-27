@@ -1,0 +1,131 @@
+# 夯客教學手冊
+
+## 夯客教學手冊
+
+- [夯客教學手冊](https://docs.hotcake.app/hang-ke-jiao-xue-shou-ce.md): 數位升級正夯，聰明管理顧客
+- [夯客更新日誌](https://docs.hotcake.app/changelog.md): 夯客最近更新了什麼？
+- [夯客維修公告](https://docs.hotcake.app/repair.md)
+- [合作夥伴](https://docs.hotcake.app/partners.md): 加入夯客，並不是只有使用系統而已。夯客協助打造完整的商業生態圈，讓每一位老闆、從業人員，輕鬆開店經營你的事業。
+- [Aiyo自媒體行銷](https://docs.hotcake.app/partners/aiyo-zi-mei-ti-xing-xiao.md): 讓aiyo自媒體學院協助你強化品牌力，打造吸睛社群帳號！
+- [Happ. 小樹屋](https://docs.hotcake.app/partners/happ.-xiao-shu-wu.md): 美業經營新選擇，專屬空間+優惠租金，助你事業起飛！
+- [新光三越美麗台 教主招募中](https://docs.hotcake.app/partners/xin-guang-san-yue-mei-li-tai-jiao-zhu-zhao-mu-zhong.md): 轉美妝熱情為收入
+- [蒔業堂行銷｜美業專屬行銷陪跑三大方案](https://docs.hotcake.app/partners/shi-ye-tang-xing-xiao-mei-ye-zhuan-shu-xing-xiao-pei-pao-san-da-fang-an.md): 在競爭激烈的美業市場中，光有好技術還不夠，懂得行銷、善用數位工具，才能真正脫穎而出。 蒔業堂行銷專為美業設計，推出三大專屬方案，從廣告、顧問、社群經營到業績加速，給你最完整的一站式行銷支持！
+- [社團法人中華民國美容法律協會](https://docs.hotcake.app/partners/she-tuan-fa-ren-zhong-hua-min-guo-mei-rong-falxie-hui.md): 致力於法律權益保障的美業人，所共同籌組的非營利社會團體
+- [街口支付](https://docs.hotcake.app/partners/jie-kou-zhi-fu.md): 加入街口合作店家，在百萬名用戶中拓展你的商機
+- [銀角零卡特約商家](https://docs.hotcake.app/partners/yin-jiao-ling-ka-te-yue-shang-jia.md): 大額分期，小額支付
+- [iPhone卡緊收/手機刷卡機\_中國信託](https://docs.hotcake.app/partners/iphone-ka-jin-shou-shou-ji-shua-ka-ji-zhong-guo-xin-tuo.md): 一機在手，快速感應收款，手機就是你的刷卡機
+- [iPhone 卡緊收\_TapPay (2025/7/1止)](https://docs.hotcake.app/partners/iphone-ka-jin-shou-tappay-202571-zhi.md): 用iPhone卡緊收，不需要刷卡機或其他設備
+- [iPhone 卡緊收\_TapPay](https://docs.hotcake.app/partners/iphone-ka-jin-shou-tappay.md): 用iPhone卡緊收，不需要刷卡機或其他設備
+- [無線刷卡機\_綠界科技](https://docs.hotcake.app/partners/wu-xian-shua-ka-ji-ljie-ke-ji.md): 合規的實體無線刷卡機，整合25家銀行信用卡分期
+- [LINE官方帳號優惠方案(年繳)](https://docs.hotcake.app/partners/line-guan-fang-zhang-hao-you-hui-fang-an-nian-jiao.md): 年繳$12,000，使用高用量方案12個月
+- [教學影片](https://docs.hotcake.app/newhand/jiao-xue-ying-pian.md)
+- [5步驟完成夯客設定](https://docs.hotcake.app/newhand/teaching.md)
+- [如何調整方案?](https://docs.hotcake.app/newhand/triedisend.md)
+- [素材/圖庫/教學文件](https://docs.hotcake.app/newhand/su-cai-tu-ku-jiao-xue-wen-jian.md)
+- [如何啟動夯客APP](https://docs.hotcake.app/hungerapp/ru-he-qi-dong-hang-ke-app.md)
+- [多分店管理](https://docs.hotcake.app/hungerapp/duo-fen-dian-guan-li.md): 夯客支援多分店管理，你可以在夯客系統中切換到其他分店。
+- [客服支援](https://docs.hotcake.app/hungerapp/support.md): 為提供夯客用戶更佳的客服支援，請多多使用APP內之客服系統。
+- [公告中心](https://docs.hotcake.app/hungerapp/announcement.md): 在這邊，你可以知道你目前的系統狀態，也能及時掌握扣款進度。
+- [預約行事曆](https://docs.hotcake.app/hungerapp/yu-yue-xing-shi-li.md)
+- [線上預約流程](https://docs.hotcake.app/hungerapp/yu-yue-xing-shi-li/xian-shang-yu-yue-liu-cheng.md): 簡單直覺的線上系統，將能提升品牌可見度與來客率，在數位化經營的世代，專屬的預約系統是重要的導客工具。
+- [認識預約訂單](https://docs.hotcake.app/hungerapp/yu-yue-xing-shi-li/ren-shi-yu-yue-ding-dan.md): 透過顏色分類，快速了解每一個預約訂單的狀態與資訊。
+- [新增、編輯預約](https://docs.hotcake.app/hungerapp/yu-yue-xing-shi-li/xin-zeng-bian-ji-yu-yue.md): 商家端有自由的權限，可以新增和編輯每一筆預約，跟線上預約不同，增加了更多的彈性。
+- [複合預約](https://docs.hotcake.app/hungerapp/yu-yue-xing-shi-li/fu-he-yu-yue.md): 你可以一次新增同時段但不同老師、不同項目的多筆預約。
+- [新增事件](https://docs.hotcake.app/hungerapp/yu-yue-xing-shi-li/xin-zeng-shi-jian.md)
+- [定金管理](https://docs.hotcake.app/hungerapp/yu-yue-xing-shi-li/ding-jin-guan-li.md): 使用定金模組讓爽約率下降管理，夯客讓你輕鬆對帳，即時看到哪些預約還沒付款。
+- [預約通知和提醒](https://docs.hotcake.app/hungerapp/yu-yue-xing-shi-li/reservenotify.md): 透過簡訊、LINE直接提醒你的客人，從預約、註冊會員到營運，夯客都能協助你完成！
+- [分級預約（熟客優先預約）](https://docs.hotcake.app/hungerapp/yu-yue-xing-shi-li/fen-ji-yu-yue-shu-ke-you-xian-yu-yue.md): 你可以透過夯客系統將會員進行分類，提供不同等級的預約開放區間。
+- [不指定預約](https://docs.hotcake.app/hungerapp/yu-yue-xing-shi-li/bu-zhi-ding-yu-yue.md): 真正做到系統分配訂單，真正的『不指定預約』。
+- [匯出行事曆剩餘空檔時間](https://docs.hotcake.app/hungerapp/yu-yue-xing-shi-li/hui-chu-xing-shi-li-sheng-yu-kong-dang-shi-jian.md): 店家可以根據剩餘的預約時間來匯出剩餘的預約空檔。
+- [會員與再行銷](https://docs.hotcake.app/hungerapp/membermarketing.md)
+- [會員護照](https://docs.hotcake.app/hungerapp/membermarketing/hui-yuan-hu-zhao.md): 你可以透過會員護照，管理所有客人的資料。同時可以上標籤、發送訊息和票券。
+- [加上會員標籤](https://docs.hotcake.app/hungerapp/membermarketing/jia-shang-hui-yuan-biao-qian.md): 透過標籤，分眾分群你的客人
+- [會員篩選（群發票券和訊息）](https://docs.hotcake.app/hungerapp/membermarketing/hui-yuan-shai-xuan-qun-fa-piao-quan-he-xun-xi.md): 你可以利用會員篩選功能，進行群組操作。透過會員資料的搜集，你可以設定參數，例如來店天數、消費金額等，篩選出名單後就能直接執行行銷工作。
+- [會員評分與評論](https://docs.hotcake.app/hungerapp/membermarketing/memberscoreandcomment.md): 想逃離奧客？夯客建立客人評鑑系統，你可以在夯客系統中查看其他夥伴對此客人的評論和評分。
+- [群發票券和訊息](https://docs.hotcake.app/hungerapp/membermarketing/qun-fa-piao-quan-he-xun-xi.md): 透過會員資料的搜集，你可以設定參數，例如來店天數、消費金額等，篩選出名單後就能直接執行行銷工作。
+- [排程發出關懷訊息](https://docs.hotcake.app/hungerapp/membermarketing/pai-cheng-fa-chu-guan-huai-xun-xi.md): 排成發出程關懷訊息
+- [紅利點數與票券兌換](https://docs.hotcake.app/hungerapp/membermarketing/points.md)
+- [票券與轉贈](https://docs.hotcake.app/hungerapp/membermarketing/piao-quan-yu-zhuan-zeng.md): 優惠券、計次券、生日禮，都可以讓你自由設定，透過票券輕鬆自由Call客。還支援「轉贈」功能。
+- [延伸應用：計次券、課程券的設定](https://docs.hotcake.app/hungerapp/membermarketing/yan-shen-ying-yong-ji-ci-quan-ke-cheng-quan-de-she-ding.md)
+- [儲值金](https://docs.hotcake.app/hungerapp/membermarketing/chu-zhi-jin.md): 協助你建立每一個會員的儲值金帳號，進出扣款都很清楚。
+- [結帳與業績統計](https://docs.hotcake.app/hungerapp/bills.md): 與業績統計想知道自己的經營有沒有成長？從掌握營收數字開始。
+- [如何結帳？（舉例：服務結帳）](https://docs.hotcake.app/hungerapp/bills/ru-he-jie-zhang-ju-li-fu-wu-jie-zhang.md)
+- [結帳時自動帶入折扣](https://docs.hotcake.app/hungerapp/bills/jie-zhang-shi-zi-dong-dai-ru-zhe-kou.md)
+- [結帳時一併核銷票券](https://docs.hotcake.app/hungerapp/bills/jie-zhang-shi-yi-bing-he-xiao-piao-quan.md)
+- [如何刪除/修改結帳](https://docs.hotcake.app/hungerapp/bills/ru-he-shan-chu-xiu-gai-jie-zhang.md)
+- [計算額外業績（虛業績）](https://docs.hotcake.app/hungerapp/bills/ji-suanewai-ye-ji-xu-ye-ji.md): 額外業績是協助商家計算 每一個資源（老師/設計師）的業績。
+- [計次券、課程包堂，如何設定呢？](https://docs.hotcake.app/hungerapp/bills/ticketsnsells.md): 夯客支援票券銷售的功能，商家可以設定票券價格，並執行票券結帳（賣票券）。
+- [如何使用別人帳號扣除儲值金、票券](https://docs.hotcake.app/hungerapp/bills/changemember.md): 票券和儲值金都是綁定在某一位會員身上。所以若要進行代扣，就必須要執行切換會員。
+- [業績統計邏輯](https://docs.hotcake.app/hungerapp/bills/ye-ji-tong-ji-luo-ji.md)
+- [銷售票券、儲值金和商品](https://docs.hotcake.app/hungerapp/bills/xiao-shou-piao-quan-chu-zhi-jin-he-shang-pin.md)
+- [商品與進存貨管理](https://docs.hotcake.app/hungerapp/shang-pin-yu-jin-cun-huo-guan-li.md): 你可以透過夯客進行商品管理，並即時查看庫存與盤點
+- [日報表](https://docs.hotcake.app/hungerapp/ri-bao-biao.md): 日報表
+- [設定](https://docs.hotcake.app/hungerapp/setup4phone.md)
+- [分店資訊](https://docs.hotcake.app/hungerapp/setup4phone/fen-dian-zi-xun.md)
+- [分店資料維護](https://docs.hotcake.app/hungerapp/setup4phone/fen-dian-zi-xun/fen-dian-zi-liao-wei-hu.md): 修改分店主圖、介紹、地址和電話資訊
+- [服務人員管理](https://docs.hotcake.app/hungerapp/setup4phone/resourcessetup4phone.md): 新增、編輯你的服務人員，修改顯示照片、名稱和介紹等資訊
+- [服務預約](https://docs.hotcake.app/hungerapp/setup4phone/onlinebookingsetup.md)
+- [服務項目(價目表)](https://docs.hotcake.app/hungerapp/setup4phone/onlinebookingsetup/servicessetup4pad.md)
+- [開放預約項目](https://docs.hotcake.app/hungerapp/setup4phone/onlinebookingsetup/servicessetup4phone.md): 你可以決定哪些項目要開放在網路預約，讓你的網路訂單達到最高價值！
+- [開放預約時間 #Phone](https://docs.hotcake.app/hungerapp/setup4phone/onlinebookingsetup/timesetup4phone.md): 顧客只能看到你開放的時間！ 你也不用擔心開放線上預約會爆單，我們的後端資料庫會幫你把關！
+- [開放預約時間 #Pad](https://docs.hotcake.app/hungerapp/setup4phone/onlinebookingsetup/timesetup4pad.md): 顧客只能看到你開放的時間！ 你也不用擔心開放線上預約會爆單，我們的後端資料庫會幫你把關！
+- [預約注意事項](https://docs.hotcake.app/hungerapp/setup4phone/onlinebookingsetup/onlinenote.md): 開啟此功能後，客人進行網路預約時將顯示預約注意事項。
+- [定金](https://docs.hotcake.app/hungerapp/setup4phone/onlinebookingsetup/ding-jin.md)
+- [預約限制](https://docs.hotcake.app/hungerapp/setup4phone/onlinebookingsetup/ordercancel.md): 限制可以透過此設定，限制客人自行線上取消預約的時間。
+- [營業結束時間](https://docs.hotcake.app/hungerapp/setup4phone/onlinebookingsetup/ying-ye-jie-shu-shi-jian.md): 不怕預約訂單讓你晚下班，讓預約不再耽誤你。
+- [預約後緩衝時間](https://docs.hotcake.app/hungerapp/setup4phone/onlinebookingsetup/yu-yue-hou-huan-chong-shi-jian.md): 服務項目加上緩衝時間，不再急急忙忙！讓老師有休息、整理的時間！
+- [不指定預約](https://docs.hotcake.app/hungerapp/setup4phone/onlinebookingsetup/bu-zhi-ding-yu-yue.md): 不指定是以服務人員的時間，整合後匿名開放給客人預約。
+- [設備管理](https://docs.hotcake.app/hungerapp/setup4phone/onlinebookingsetup/she-bei-guan-li.md)
+- [商品](https://docs.hotcake.app/hungerapp/setup4phone/shang-pin.md): 商品
+- [商品管理](https://docs.hotcake.app/hungerapp/setup4phone/shang-pin/shang-pin-guan-li.md)
+- [進銷存管理](https://docs.hotcake.app/hungerapp/setup4phone/shang-pin/jin-xiao-cun-guan-li.md)
+- [結帳](https://docs.hotcake.app/hungerapp/setup4phone/advance.md)
+- [電子簽名](https://docs.hotcake.app/hungerapp/setup4phone/advance/dian-zi-qian-ming.md)
+- [第三方工具整合](https://docs.hotcake.app/hungerapp/setup4phone/di-san-fang-gong-ju-zheng-he.md)
+- [簡訊管理](https://docs.hotcake.app/hungerapp/setup4phone/di-san-fang-gong-ju-zheng-he/notify.md)
+- [訊息範本](https://docs.hotcake.app/hungerapp/setup4phone/di-san-fang-gong-ju-zheng-he/xun-xi-fan-ben.md)
+- [TWODAY就GO](https://docs.hotcake.app/hungerapp/setup4phone/di-san-fang-gong-ju-zheng-he/twoday-jiu-go.md)
+- [LINE官方帳號](https://docs.hotcake.app/hungerapp/setup4phone/di-san-fang-gong-ju-zheng-he/line-guan-fang-zhang-hao.md)
+- [申請LINE 官方帳號串接](https://docs.hotcake.app/hungerapp/setup4phone/di-san-fang-gong-ju-zheng-he/line-guan-fang-zhang-hao/shen-qing-line-guan-fang-zhang-hao-chuan-jie.md): 夯客是LINE官方帳號的技術夥伴
+- [解除LINE官方帳號串接](https://docs.hotcake.app/hungerapp/setup4phone/di-san-fang-gong-ju-zheng-he/line-guan-fang-zhang-hao/jie-chu-line-guan-fang-zhang-hao-chuan-jie.md)
+- [LINE通知設定](https://docs.hotcake.app/hungerapp/setup4phone/di-san-fang-gong-ju-zheng-he/line-guan-fang-zhang-hao/notify.md)
+- [品牌資訊](https://docs.hotcake.app/hungerapp/setup4phone/pin-pai-zi-xun.md)
+- [品牌資料維護](https://docs.hotcake.app/hungerapp/setup4phone/pin-pai-zi-xun/pin-pai-zi-liao-wei-hu.md)
+- [會員應用](https://docs.hotcake.app/hungerapp/setup4phone/hui-yuan-ying-yong.md)
+- [會員標籤](https://docs.hotcake.app/hungerapp/setup4phone/hui-yuan-ying-yong/hui-yuan-biao-qian.md)
+- [票券管理](https://docs.hotcake.app/hungerapp/setup4phone/hui-yuan-ying-yong/vouchermgt.md): 設定折價券、堂數券、點數卷等應用
+- [文件管理](https://docs.hotcake.app/hungerapp/setup4phone/hui-yuan-ying-yong/docs.md): 建立問卷、滿意度調查與服務同意書，提供給客人或會員簽署。
+- [紅利點數管理](https://docs.hotcake.app/hungerapp/setup4phone/hui-yuan-ying-yong/hong-li-dian-shu-guan-li.md): 設定結帳時自動發送的比例
+- [夯客助理帳號](https://docs.hotcake.app/hungerapp/setup4phone/hungertool.md)
+- [店員管理(平板專屬)](https://docs.hotcake.app/hungerapp/setup4phone/dian-yuan-guan-li-ping-ban-zhuan-shu.md): 夯客將平板的操作者區分為兩類：店長和店員，透過權限的劃分達到最佳的管理效果。
+- [報表與管理後台](https://docs.hotcake.app/merchant/merchant.md): 檢視每月報表、各種分析都在這裡，還能在此調整方案、檢視每月扣款紀錄與設定管理員權限。
+- [主控台/全品牌報表](https://docs.hotcake.app/merchant/merchant/groupdashboard.md): 提供全品牌各類累積數據查詢。
+- [主控台/分店報表](https://docs.hotcake.app/merchant/merchant/storedashboard.md): 提供各分店數據查詢，可針對設計師單一查看。
+- [方案管理](https://docs.hotcake.app/merchant/merchant/howtopay.md): 可選擇付款的方案與終止方案。
+- [夯幣管理](https://docs.hotcake.app/merchant/merchant/hang-bi-guan-li.md): 夯幣可抵扣所有夯客費用，包含簡訊、月租費等
+- [邀請碼管理](https://docs.hotcake.app/merchant/merchant/permotecode.md): 檢視及複製邀請碼，並瀏覽邀請清單。
+- [管理員管理](https://docs.hotcake.app/merchant/merchant/manager.md)
+- [Google 使用者政策 /Google User Policy](https://docs.hotcake.app/3rdpartyconnect/google-user-policy.md): 夯客為提升應用程式之商業應用，會導入Google相關之工具，包含行事曆整合 與 Google Map應用 ，真對使用者，特聲明Goolge使用者政策。
+- [線上金流](https://docs.hotcake.app/3rdpartyconnect/xian-shang-jin-liu.md)
+- [申請LINE Pay](https://docs.hotcake.app/3rdpartyconnect/xian-shang-jin-liu/shen-qing-line-pay.md): 夯客也支援使用LINE Pay支付定金囉！個人和公司都能申請！
+- [整合與串接 LINE Pay](https://docs.hotcake.app/3rdpartyconnect/xian-shang-jin-liu/zheng-he-yu-chuan-jie-line-pay.md)
+- [申請INSTO](https://docs.hotcake.app/3rdpartyconnect/xian-shang-jin-liu/partner-insto.md): 個人和公司都能申請
+- [整合與串接 : INSTO](https://docs.hotcake.app/3rdpartyconnect/xian-shang-jin-liu/zheng-he-yu-chuan-jie-insto.md)
+- [線上金流：對帳與查帳](https://docs.hotcake.app/3rdpartyconnect/xian-shang-jin-liu/xian-shang-jin-liu-dui-zhang-yu-cha-zhang.md)
+- [夯客助理](https://docs.hotcake.app/3rdpartyconnect/hungertool.md): 夯客助理 主要是提供給（員工）設計師/老師使用，提供了預約管理的功能，讓老師能隨時掌握自己的預約狀況。
+- [LINE官方帳號](https://docs.hotcake.app/3rdpartyconnect/lineoa.md)
+- [我有優惠代碼，該如何兌換？](https://docs.hotcake.app/3rdpartyconnect/lineoa/wo-you-you-hui-dai-ma-gai-ru-he-dui-huan.md)
+- [如何升級LINE官方帳號購買額度](https://docs.hotcake.app/3rdpartyconnect/lineoa/updata.md)
+- [如何邀請管理員](https://docs.hotcake.app/3rdpartyconnect/lineoa/ru-he-yao-qing-guan-li-yuan.md)
+- [更改圖文選單](https://docs.hotcake.app/3rdpartyconnect/lineoa/geng-gai-tu-wen-xuan-dan.md)
+- [查看客人LINE資訊](https://docs.hotcake.app/3rdpartyconnect/lineoa/cha-kan-ke-ren-line-zi-xun.md)
+- [沒有發送LINE提醒訊息？](https://docs.hotcake.app/3rdpartyconnect/lineoa/mei-you-fa-song-line-ti-xing-xun-xi.md): 每日中午12:00 夯客都會執行發送訊息的工作。若沒有收到，可能有以下原因...
+- [如何綁定客人LINE？](https://docs.hotcake.app/3rdpartyconnect/lineoa/ru-he-bang-ding-ke-ren-line.md)
+- [解除串接LINE官方帳號](https://docs.hotcake.app/3rdpartyconnect/lineoa/jie-chu-chuan-jie-line-guan-fang-zhang-hao.md): 解除串接很簡單，兩步驟解除串接。
+- [為什麼我的帳號會被LINE官方強制刪除？](https://docs.hotcake.app/3rdpartyconnect/lineoa/wei-shen-mo-wo-de-zhang-hao-hui-bei-line-guan-fang-qiang-zhi-shan-chu.md)
+- [邀請LINE Developer (電腦操作)](https://docs.hotcake.app/3rdpartyconnect/lineoa/linedeveloperinvite.md): 這是LINE技術串接的帳號，須提供此權限才能進行串接。
+- [邀請LINE Developer (手機操作)](https://docs.hotcake.app/3rdpartyconnect/lineoa/linedeveloperinvite-1.md): 這是LINE技術串接的帳號，須提供此權限才能進行串接。
+- [Liff模式下，針對預約狀態給予回應](https://docs.hotcake.app/3rdpartyconnect/lineoa/liff-feedback.md)
+- [設定推薦好友功能](https://docs.hotcake.app/3rdpartyconnect/lineoa/she-ding-tui-jian-hao-you-gong-neng.md)
+- [LINE官方帳號，設定邀請通話功能](https://docs.hotcake.app/3rdpartyconnect/lineoa/line-guan-fang-zhang-hao-she-ding-yao-qing-tong-hua-gong-neng.md)
+- [完整解除第三方系統與Google的授權](https://docs.hotcake.app/3rdpartyconnect/wan-zheng-jie-chu-di-san-fang-xi-tong-yu-google-de-shou-quan.md)

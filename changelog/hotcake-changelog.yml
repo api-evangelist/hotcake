@@ -1,0 +1,54 @@
+generated: '2026-07-19'
+method: searched
+source: https://docs.hotcake.app/changelog.md
+name: HOTCAKE 夯客 更新日誌 (Changelog)
+scheme: dated-announcements
+format: markdown
+notes: >-
+  HOTCAKE publishes a dated product changelog / update log ("更新日誌") on its merchant
+  documentation site. Entries are dated notices in Traditional Chinese covering the
+  merchant appointment/membership/POS product; there is no semantic API version. The
+  recent window is captured verbatim below; the live page is the source of truth.
+current_version: null
+entries:
+  - date: '2025-08-22'
+    kind: announcement
+    breaking: false
+    highlights:
+      - Customer-facing booking pages are being progressively updated; customers do not
+        need to re-register but must re-complete phone verification once.
+  - date: '2025-08-14'
+    kind: announcement
+    breaking: false
+    highlights:
+      - A test billing-failure email was triggered in error; no charge or invoice was
+        actually issued and merchant plans were unaffected.
+  - date: '2024-07-18'
+    kind: update
+    breaking: false
+    highlights:
+      - Added composite booking (multiple appointments in one action for multi-person /
+        multi-service scenarios).
+      - Improved new-appointment time display with an online-availability clock indicator.
+      - Inventory report now includes opening / closing / period-change quantity data.
+      - Added free-slot export filtered by staff + service for social-media scheduling.
+  - date: '2024-05-31'
+    kind: update
+    breaking: false
+    highlights:
+      - Loyalty points no longer auto-calculated when paying by voucher/stored value.
+      - iPad plan management view added.
+  - date: '2024-05-08'
+    kind: update
+    breaking: false
+    highlights:
+      - Bill and appointment records gained status-identifying columns.
+      - Revenue statistics re-organised by performance type; inventory report status fixes.
+  - date: '2024-04-10'
+    kind: update
+    breaking: false
+    highlights:
+      - Added deposit confirmation on appointment creation.
+      - Improved Google Calendar sync stability.
+      - Added birthday/gender fields to member records; single/multi select for online
+        booking service items.

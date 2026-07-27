@@ -1,7 +1,17 @@
 aid: hotcake
 name: hotcake 夯客
-description: hotcake 夯客 is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  HOTCAKE 夯客 (Hotcake Inc. / 夯客股份有限公司) is a Taipei, Taiwan SaaS platform for the beauty
+  and wellness industry — hair salons, nail and lash studios, skincare and medical
+  beauty clinics, massage and fitness. It gives merchants an intuitive appointment,
+  membership, and POS system covering 24-hour automated online booking, member passports
+  and tagging, stored-value and voucher/loyalty programs, checkout and revenue analytics,
+  inventory management, staff scheduling, and marketing automation. HOTCAKE is a LINE
+  official-account technical partner and integrates LINE Pay, third-party payment
+  gateways, and Google Calendar/Maps. It is delivered as a subscription with no long-term
+  contract and same-day go-live. HOTCAKE was surfaced as a 500 Global portfolio company
+  and added to the API Evangelist network; it ships mobile merchant apps and a merchant
+  documentation/help manual, but publishes no public developer API, OpenAPI, or SDK.
 url: https://raw.githubusercontent.com/api-evangelist/hotcake/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,17 +19,69 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://hotcake.app/assets/og/og-default.png
 tags:
 - Company
+- Beauty
+- Wellness
+- Appointments
+- Booking
+- Scheduling
+- Membership
+- POS
+- SaaS
+- Taiwan
+- LINE
+- SMB
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+- FN: HOTCAKE Support
+  email: support@hotcake.app
 common:
 - type: Website
-  url: https://hotcakeapp.com
+  url: https://hotcake.app
+- type: Documentation
+  url: https://docs.hotcake.app
+- type: GettingStarted
+  url: https://docs.hotcake.app/newhand/teaching.md
+- type: Support
+  url: https://docs.hotcake.app/hungerapp/support
+- type: Pricing
+  url: https://hotcake.app/pricing
+- type: SignUp
+  url: https://hotcake.app/join-us
+- type: Login
+  url: https://hotcake.app/merchant
+- type: TermsOfService
+  url: https://hotcake.app/term
+- type: PrivacyPolicy
+  url: https://hotcake.app/privacy
+- type: ChangeLog
+  url: changelog/hotcake-changelog.yml
+- type: LLMsTxt
+  url: llms/hotcake-llms.txt
+- type: DomainSecurity
+  url: security/hotcake-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
